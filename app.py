@@ -6,7 +6,7 @@ import re
 from datetime import datetime
 
 st.set_page_config(page_title="Nard ⇄ Shopify Reconciler", layout="wide")
-st.title("Slot-X (Nard ⇄ Shopify) — Strict Barcode Reconciler (with digits-only fallback)")
+st.title("Slot-X (Nard ⇄ Shopify) — Strict Barcode Reconciler")
 st.caption("Matches Nard (POS) ↔ Shopify by BARCODE only. Product name & prices come from Nard. Exact match → fallback to digits-only match.")
 
 # --------------------
