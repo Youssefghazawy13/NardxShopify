@@ -6,7 +6,7 @@ from datetime import datetime
 
 st.set_page_config(page_title="Nard ⇄ Shopify Reconciler", layout="wide")
 
-st.title("Nard ⇄ Shopify — Strict Barcode Reconciler")
+st.title("Slot-X Nard ⇄ Shopify — Strict Barcode Reconciler")
 st.caption("Matches Nard (POS) ↔ Shopify by BARCODE only. Product name & prices come from Nard.")
 
 # --------------------
